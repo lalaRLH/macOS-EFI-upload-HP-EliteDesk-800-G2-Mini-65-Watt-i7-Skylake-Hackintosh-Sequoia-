@@ -1,0 +1,1 @@
+# macOS-EFI-upload-HP-EliteDesk-800-G2-Mini-65-Watt-i7-Skylake-Hackintosh-Sequoia-
